@@ -1,5 +1,7 @@
 # React Universal
 
+[![Join the chat at https://gitter.im/felguerez/react-universal](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/felguerez/react-universal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About
 
 A starter kit for creating universal React applications that is built on:
